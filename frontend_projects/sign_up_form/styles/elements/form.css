@@ -1,0 +1,22 @@
+.form-box {
+    height: 100vh;
+}
+
+.sign-up-form {
+    gap: 32px;
+    background-color: #F6FBF9;
+    padding: 44px;
+    border-radius: 32px;
+}
+
+.form-head {
+    gap: 14px;
+}
+
+.bottom-form {
+    text-align: center;
+}
+
+.bottom-form > p {
+    margin-top: 11px;
+}

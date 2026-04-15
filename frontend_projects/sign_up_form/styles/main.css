@@ -1,0 +1,30 @@
+@import 'utilities/flex.css';
+
+@import 'elements/form.css';
+@import 'elements/input.css';
+@import 'elements/button.css';
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #A7D7C5;
+    background-image: url('../imgs/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body, input, button {
+    font-family: "Karla", monospace;
+}
+
+a {
+    color: black;
+}
+
+h1, p {
+    text-align: center;
+}
